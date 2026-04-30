@@ -7,6 +7,18 @@ for deep-dive analysis and preparing data for Power BI visualization, this syste
 identifies profit-leakage areas and highlights high-growth market segments.
 ![Dashboard](./visuals/Visualization_charts.png)
 
+## Python Deep-Dive Analysis
+Before building the interactive dashboard, I performed a deep-dive exploratory data analysis (EDA) using `Pandas`, `Matplotlib`, and `Seaborn`.
+
+| Distribution & Correlation | Trends & Segmentation |
+|---|---|
+| ![Analysis 1](./visuals/Python_Analysis_1.png) | ![Analysis 2](./visuals/Python_Analysis_2.png) |
+
+### Key Findings from EDA:
+*   **The Discount Trap**: Statistical correlation shows that discount rates above 20% lead to a sharp decline in net profit margins.
+*   **Regional Drivers**: The West region contributes the highest revenue volume at 31.6%.
+*   **Segment Growth**: The Consumer segment remains the primary driver of total profit contribution.
+  
 ## Technical Implementation (The Python Layer)
 
 *   **Data Preprocessing**: Handled missing values and standardized currency 
