@@ -37,8 +37,9 @@ growth and Rolling Averages.
 track performance in real-time.
 
 ##  How to View the Analysis
-* Interactive Dashboard: [Download the Power BI File (.pbix)](./Product_Performance_Dashboard.pbix)### Option 1: Quick View (No Installation Required)
-* 
+* Interactive Dashboard: [Download the Power BI File (.pbix)](./Product_Performance_Dashboard.pbix)
+  
+* ### Option 1: Quick View (No Installation Required) 
 For a fast overview of the insights and visualizations:
 *   Simply click on the **[Product Performance Intelligence 
 System.ipynb](Product%20Performance%20Intelligence%20System.ipynb)** file here in 
