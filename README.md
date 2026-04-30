@@ -5,8 +5,8 @@ This project is a multi-stage Business Intelligence (BI) pipeline designed to
 transform raw retail data into actionable strategic insights. By leveraging Python 
 for deep-dive analysis and preparing data for Power BI visualization, this system 
 identifies profit-leakage areas and highlights high-growth market segments.
+![Dashboard Preview](./visuals/Visualization charts.png)## Technical Implementation (The Python Layer)
 
-## Technical Implementation (The Python Layer)
 *   **Data Preprocessing**: Handled missing values and standardized currency 
 formats using `Pandas`.
 *   **Temporal Analysis**: Converted raw strings into `datetime` objects to 
