@@ -1,6 +1,6 @@
 # Product Performance Intelligence System
 
-## Executive Summary
+## Project Overview
 This project is a multi-stage Business Intelligence (BI) pipeline designed to 
 transform raw retail data into actionable strategic insights. By leveraging Python 
 for deep-dive analysis and preparing data for Power BI visualization, this system 
