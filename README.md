@@ -53,8 +53,7 @@ track performance in real-time.
   
 * ### Option 1: Quick View (No Installation Required) 
 For a fast overview of the insights and visualizations:
-*   Simply click on the **[Product Performance Intelligence 
-System.ipynb](Product%20Performance%20Intelligence%20System.ipynb)** file here in 
+*   Simply click on the **[Product_Performance_Analysis_FINAL.ipynb](./Product_Performance_Analysis_FINAL.ipynb)** file here in 
 the GitHub file list.
 *   GitHub will automatically render the notebook, showing all code, professional 
 comments, and generated charts (Revenue trends, Discount traps, and Segment 
