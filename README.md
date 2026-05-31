@@ -7,6 +7,17 @@ for deep-dive analysis and preparing data for Power BI visualization, this syste
 identifies profit-leakage areas and highlights high-growth market segments.
 ![Dashboard](./visuals/Visualization_charts.png)
 
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Power BI
+- Git & GitHub
+
 ## Python Deep-Dive Analysis
 Before building the interactive dashboard, I performed a deep-dive exploratory data analysis (EDA) using `Pandas`, `Matplotlib`, and `Seaborn`.
 
